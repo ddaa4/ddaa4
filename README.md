@@ -1,5 +1,5 @@
 
- Hi there 👋 I'm Danah
+ Hi,I'm Danah👋
 
 Computer Science student with an interest in software development and problem solving.  
 
